@@ -7,6 +7,6 @@
 </a>
 </p>
 
-|[Open-source <br> data curation platform for LLMs](https://github.com/argilla-io/argilla)|[No-code <br> Training NLP using AutoTrain](https://www.argilla.io/blog/argilla-meets-autotrain)|
+|[Open-source <br> data labelling platform for LLMs](https://github.com/argilla-io/argilla)|[No-code <br> Training NLP using AutoTrain](https://www.argilla.io/blog/argilla-meets-autotrain)|
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | 
 | <video src="https://user-images.githubusercontent.com/25269220/235918158-359726bb-a479-4239-8c6e-c9e4cdb4fcdf.mp4" width="300" /> | <video src="https://user-images.githubusercontent.com/1107111/223220683-fbfa63da-367c-4cfa-bda5-66f47413b6b0.mp4" width="300" /> |

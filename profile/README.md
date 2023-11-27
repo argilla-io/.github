@@ -7,6 +7,6 @@
 </a>
 </p>
 
-|[argilla <br> Human and machine feedback platform for small and large language models](https://github.com/argilla-io/argilla)|⚗️ [distilabel <br> AI Feedback framework for scalable LLM adaptation](https://github.com/argilla-io/distilabel)|
+|[Argilla <br> the open-source feedback platform for LLMs](https://github.com/argilla-io/argilla)|⚗️ [distilabel <br> AI Feedback framework for scalable LLM adaptation](https://github.com/argilla-io/distilabel)|
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | 
 | <img alt="argilla-ui" src="https://github.com/argilla-io/.github/assets/1107111/ffbd4f28-d6a6-4ebb-9944-6a60cabda0bb"> | <img alt="argilla-ui" src="https://github.com/argilla-io/.github/assets/1107111/b9aafa25-0139-40ac-9a66-71b7ed60151f"> |
